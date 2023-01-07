@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookKeeper</string>
+    <string name="nav_header_title">Book Keeper</string>
+    <string name="nav_header_subtitle">Made with love !</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="open">Open sidebar </string>
+    <string name="close">Close sidebar </string>
+
+    <string name="menu_home">My Books</string>
+    <string name="menu_gallery">Book Borrowing</string>
+    <string name="menu_slideshow">People</string>
+</resources>
